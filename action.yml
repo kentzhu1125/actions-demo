@@ -1,5 +1,5 @@
-name: 'Hello'
-description: 'An action for bark'
+name: 'Hello World ABC'
+description: 'An action for Helloworld bark'
 author: 'Yuanhao Ji <jiyuanhao@apache.org>'
 branding:
   icon: 'message-circle'
